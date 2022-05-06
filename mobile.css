@@ -1,0 +1,127 @@
+.main {
+    padding: 30px;
+}
+
+.main__subtitle hr {
+    margin-right: 13px;
+    width: 40px;
+}
+
+.main__subtitle {
+    font-size: 1.1rem;
+    font-weight: bold;
+
+    letter-spacing: 3px;
+}
+
+.main__title {
+    padding: 13px 0;
+
+    font-size: 5.2rem;
+
+    line-height: 5.6rem;
+}
+
+.main__scroll span {
+    margin-right: 5px;
+
+    font-size: 1.1rem;
+} 
+
+.main__scroll i {
+    font-size: 1.8rem;
+} 
+
+article {
+    padding: 30px;
+}
+
+.article__image img {
+    height: 400px;
+}
+
+.article__text__subtitle.a_t_s-1::before {
+    font-size: 10rem;
+    
+    transform: translateX(-35px);
+}
+.article__text__subtitle.a_t_s-2::before {
+    font-size: 10rem;
+    
+    transform: translateX(-35px);
+}
+.article__text__subtitle.a_t_s-3::before {
+    font-size: 10rem;
+    
+    transform: translateX(-35px);
+}
+
+.article__text__subtitle hr {
+    margin-right: 13px;
+    width: 40px;
+}
+
+.article__text__subtitle span {
+    font-size: 1.1rem;
+}
+
+.article__text__title {
+    margin: 40px 0 15px;
+    
+    font-size: 5rem;
+
+    line-height: 5.2rem;
+}
+
+.article__text__paragraph {
+    font-size: 1.5rem;
+
+    line-height: 2.5rem;
+}
+
+.article__text__cta span {
+    font-size: 1.33rem;
+}
+
+.article__text__cta i {
+    font-size: 2rem;
+
+    transform: translateY(3px);
+}
+
+.footer {
+    grid-gap: 40px;
+
+    padding: 120px 30px;
+
+    line-height: 2.5rem;
+}
+
+.footer__left p {
+    margin: 10px 0 30px;
+}
+
+.footer__left__copyright {
+    font-size: 1.3rem;
+
+    line-height: 2rem;
+}
+
+.footer__right {
+    grid-gap: 30px;
+}
+
+.footer__right h3 {
+    margin-bottom: 10px;
+    
+    font-size: 2.2rem;
+
+    line-height: 3rem;
+}
+
+.footer__right a {
+    
+    font-size: 1.4rem;
+
+    line-height: 2rem;
+}
